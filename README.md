@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The more i get older the more cats i have.
 -->
 # 💫 About Me:
-- 🔭 I’m currently working on CRM, Everything about Data and Machine Learning<br>- 🌱 I’m currently learning Machine Learning, Data analysis<br>- 👯 I’m looking to collaborate on Data Science Projects<br>- 🤔 I’m looking for help with well ofc Statistics and Data Science<br>- 💬 Ask me about cats?<br>- 📫 How to reach me: tolgaerdogmus@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: The more i get older the more cats i have.
+<br>- 🔭 I’m currently working on CRM, Everything about Data and Machine Learning<br>- 🌱 I’m currently learning Machine Learning, Data analysis<br>- 👯 I’m looking to collaborate on Data Science Projects<br>- 🤔 I’m looking for help with well ofc Statistics and Data Science<br>- 💬 Ask me about cats?<br>- 📫 How to reach me: tolgaerdogmus@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: The more i get older the more cats i have.
 
 
 ## 🌐 Socials:
