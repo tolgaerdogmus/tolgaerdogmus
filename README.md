@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with well ofc Statistics and Data Science
 - 💬 Ask me about cats?
-- 📫 How to reach me: tolgaerdogmus@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The more i get older the more cats i have.
 -->
