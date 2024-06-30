@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 <br>📊 **Data-Hungry Learning Fiend**  
-_Aiming to Conquer Data Science at the Ripe Age of 40!_ <br>- 🌱 I’m currently learning Machine Learning, Data science <br>- 🤔 I’m looking for help with well ofc Statistics and Data Science<br>- 💬 Ask me about cats?<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: The more i get older the more cats i have.
+_Aiming to Conquer Data Science at the Ripe Age of 40!_ <br><br>- 🌱 I’m currently learning Machine Learning, Data science <br>- 🤔 I’m looking for help with well ofc Statistics and Data Science<br>- 💬 Ask me about cats?<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: The more i get older the more cats i have.
 
 
 ## 🌐 Socials:
