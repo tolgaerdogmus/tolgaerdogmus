@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The more i get older the more cats i have.
 -->
-# 💫 About Me:
-<br>📊 **Data-Hungry Learning Fiend**  
+# 💫 About Me: 
 _Developer for fun and sometimes money!_
 
 
