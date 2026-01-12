@@ -26,19 +26,8 @@ _Aiming to Conquer Data Science at the "Ripe Age" of 40!_ <br><br>- 🌱 I’m c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tolgaerdogmus&theme=github_dark_dimmed&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaerdogmus&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tolgaerdogmus&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tolgaerdogmus&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 <div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /></div>
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tolgaerdogmus&icon=7&color=12)](https://visitcount.itsvg.in)
