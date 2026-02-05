@@ -20,7 +20,3 @@ _Fiddling with AI/ML integrations, RAGs, REST APIs nowadays._
 
 ## Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-
----
-[![](https://visitcount.itsvg.in/api?id=tolgaerdogmus&icon=2&color=1)](https://visitcount.itsvg.in)
-
